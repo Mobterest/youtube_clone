@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Built with [Flutter](https://flutter.dev/) :star2:
+Built with [React Native](https://reactnative.dev/) :star2:
 
 ![Banner of the images](showcase.png)
 
@@ -23,4 +23,4 @@ Built with [Flutter](https://flutter.dev/) :star2:
 
 ## Acknowledgements
 
-Thanks to [Flutter](https://flutter.dev/) and [Visual Studio Code](https://code.visualstudio.com/) for supporting us with amazing products.
+Thanks to [React Native](https://reactnative.dev/) and [Visual Studio Code](https://code.visualstudio.com/) for supporting us with amazing products.
