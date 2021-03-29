@@ -16,10 +16,9 @@ Built with [React Native](https://reactnative.dev/) :star2:
 
 ## Build process
 
-- Follow the [Flutter Guide](https://flutter.dev/docs/get-started/install) to get started in building with Flutter.
+- Follow the [React Native Guide](https://reactnative.dev/docs/getting-started) to get started in building with Flutter.
 - Clone or download the repo.
-- Run ``` flutter pub get ``` to install the necessary packages on your command line that's navigated to the root of the project.
-- Invoke the ``` flutter run ``` command.
+- Invoke the ``` npx react-native start ``` command.
 
 ## Acknowledgements
 
